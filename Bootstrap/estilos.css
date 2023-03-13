@@ -1,0 +1,102 @@
+ /*Author Soledad Soto*/
+ 
+ .container{
+            margin-top: 50px;
+            padding: 10px;
+            border-bottom: black 1px solid;
+          } 
+
+.carrusel {
+
+	margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+
+.main {
+	background: #f2f2f2;
+}
+
+
+.colCentro {
+	
+	border: gray 1px solid;
+}
+
+.color1 {
+	background: #16a085;
+	
+	border: gray 1px solid;
+}
+
+aside {
+	background: #c0392b;
+}
+
+footer {
+	background: #2c3e50;
+	color: #fff;
+}
+
+.jumbotron .titulo-blog {
+	font-size: 60px;
+	text-align: center;
+}
+
+.jumbotron .parrafolead {
+	font-size: 30px;
+	text-align: left;
+}
+
+
+
+header{
+	margin:0px;
+   
+	background: #2c3e50;
+	color: #fff;
+}
+
+.row .titulo { 
+	font-size: 60px;
+	text-align: center;
+}
+
+
+.color2 {
+	background: #16a085;
+}
+
+
+
+/*Definición de estilos para los bullit*/
+
+.row.col-md-4.well:nth-of-type(1) ul li{ /* first well;*/
+list-style-type:none;
+}
+.row .col-md-4 .well:nth-of-type(1) ul li:before{
+font-family: 'Glyphicons Halflings';
+content: "\e067"; 
+position: absolute;
+left: 25px;
+}
+.row.col-md-4.well:nth-of-type(2) ul li{ /* second well;*/
+list-style-type:none;
+}
+.row.col-md-4.well:nth-of-type(2) ul li:before{ 
+font-family: 'Glyphicons Halflings';
+content: "\e013";
+position: absolute;
+left: -5px;
+}
+.row.col-md-4.well:nth-of-type(3) ul li{ /* third well;*/
+list-style-type:none;
+}
+.row.col-md-4.well:nth-of-type(3) ul li:before{ 
+font-family: 'Glyphicons Halflings';
+content: "\e014";
+position: absolute;
+left: -5px;
+}
+
