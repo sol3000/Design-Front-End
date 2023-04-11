@@ -1,5 +1,5 @@
 # Design-Front-End
-Proyectos de pruebas utilizando HTML, CSS y JavaScript.
+Proyectos básicos de pruebas utilizando HTML, CSS y JavaScript.
 
 Los proyectos se encuentran en las siguientes carpetas:
 
