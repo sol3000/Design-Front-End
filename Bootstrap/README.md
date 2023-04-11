@@ -1,6 +1,4 @@
-Proyectos de pruebas utilizando HTML, CSS y JavaScript.
-
-Los proyectos se encuentran en las siguientes carpetas:
+Proyecto de pruebas utilizando HTML, CSS y JavaScript.
 
 BOOTSTRAP --- Proyecto básico de front end utilizando Bootstrap framework, añadiendo una barra de navegación, 
 un botón de busqueda, una showcase area (jumbotron) que sería la zona de arranque. 
